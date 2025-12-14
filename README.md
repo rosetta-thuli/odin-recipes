@@ -1,1 +1,2 @@
 # odin-recipes
+This is an HTML project in which I will create a website full of recipes. By the end of this project I will have demostrated my ability to use simple HTML elements and tags to create a website.
